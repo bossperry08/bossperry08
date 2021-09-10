@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boss Perry (or maybe just call me Pez)
 - 👀 I’m interested in Data Science and coding
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on a web/data science project
+- 💞️ I’m looking to collaborate on a AI/data science/C++/Python project
 - 📫 How to reach me: daongocminhtamyo@gmail.com
 
 <!---

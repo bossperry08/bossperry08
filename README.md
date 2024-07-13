@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Boss Perry (or maybe just call me Pez)
-- 👀 I’m interested in Data Science and coding
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on a Data Science/C++/Python/AI project
-- 📫 How to reach me: daongocminhtamyo@gmail.com
+- 👋 Hi, I’m Perry
 
 <!---
 bossperry08/bossperry08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
